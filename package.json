@@ -1,6 +1,7 @@
 {
   "name": "tu-dien-tu-vung-lam-viec-jarvis",
   "version": "1.0.0",
+  "description": "Một từ điển từ vựng dành cho công việc Jarvis",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
