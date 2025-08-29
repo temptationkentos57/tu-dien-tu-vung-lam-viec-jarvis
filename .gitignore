@@ -1,8 +1,10 @@
+# Ignore các thư mục và tệp không cần thiết
+
 # Ignore Node.js modules
 node_modules/
 
 # Ignore build output
-dist/
+ dist/
 
 # Ignore environment variables file
 .env
